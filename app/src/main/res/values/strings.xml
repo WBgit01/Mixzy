@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">MIXZY</string>
+
+    <string name="Title">Introduction to Mobile Computing</string>
+
+    <string name="sub1">Introduction</string>
+
+    <string name="descript1">   The rapidly expanding technology of mobile communication, wireless LANs, and satellite services will make information accessible anywhere and at any time. In the near future, tens of millions of people will carry a portable palmtop or laptop computer. Smaller units, often called personal digital assistants or personal communicators, will run on AA batteries and may have only a small memory; in between sizes will be more powerful smartphones and tablets; larger ones will be powerful laptop computers with large memories and powerful processors. Regardless of size, most mobile computers will be equipped with a wireless connection to the fixed part of the network, and, perhaps, to other mobile computers.</string>
+
+    <string name="descript2">   The resulting computing environment, which is often referred to as mobile or nomadic computing, no longer requires users to maintain a fixed and universally known position in the network and enables almost unrestricted mobility. Mobility and portability will create an entire new class of applications and, possibly, new massive markets combining personal computing and consumer electronics. Not only will information be easily accessible from virtually any place and time, but also, it will be stored in a highly decentralized, distributed information infrastructure often termed the "information superhighway." A wide variety of information servers (both public and proprietary) will be accessible to mobile computers. We have already seen the beginnings of this with the popularity of the World Wide Web across a broad range of computer users. As the mobile infrastructures continue to develop, it Figure 1.1 Digital Innovation of Mobile Computing will become what is referred to as the "wireless mile" or "wireless on-ramp" for the information superhighway. In some applications, mobile computers themselves may contain data, or data may be stored on flash-memory "SD cards." </string>
+
+    <string name="descript3">   Mobile Computing is a technology that allows transmission of data, voice and video via a computer or any other wireless enabled device without having to be connected to a fixed physical link. The main concept involves\n
+
+        \n⁜ Mobile communication
+        \n⁜ Mobile hardware
+        \n⁜ Mobile software
+
+    </string>
+
+    <string name="descript4">   The mobile communication in this case, refers to the infrastructure put in place to ensure that seamless and reliable communication goes on. These would include devices such as protocols, services, bandwidth, and portals necessary to facilitate and support the stated services. The data format is also defined at this stage. This ensures that there is no collision with other existing systems which offer the same service.
+
+        Since the media is unguided/unbounded, the overlaying infrastructure is basically radio wave-oriented. That is, the signals are carried over the air to intended devices that are capable of receiving and sending similar kinds of signals.
+    </string>
+
+    <string name="descript5">   Mobile hardware includes mobile devices or device components that receive or access the service of mobility. They would range from portable laptops, smartphones; tablet PCs, Personal Digital Assistants.
+
+        These devices will have a receptor medium that is capable of sending and receiving signals. These devices are configured to operate in full- duplex, whereby they are capable of sending and receiving signals at the same time. They dont have to wait until one device has finished  communicating for the other device to initiate communications.
+
+        Above mentioned devices use an existing and established network to operate on. In most cases, it would be a wireless network.
+    </string>
+
+    <string name="descript6">   Mobile software is the actual program that runs on the mobile hardware. It deals with the characteristics and requirements of mobile applications. This is the engine of the mobile device. In other terms, it is the operating system of the appliance. Its the essential component that operates the mobile device.</string>
+
+    <string name="descript6.2"> Since portability is the main factor, this type of computing ensures that users are not tied or pinned to a single physical location, but are able to operate from anywhere. It incorporates all aspects of wireless communications. </string>
+
+    <string name="descript7">Mobile Computing Architecture refers to define various layers between the user applications interfaces, devices and network hardware. A well-defined architecture is required for systematic computations and access data and software objectives. The mobile computing architecture is presented in Fig. 1.5 “The Three-Tier Mobile Computing Architecture”. Three-tier architecture is an application program that is organized into three major parts. In the three-tier architecture, it is composed of: \n
+        \n 1.The data access layer tier at the bottom,
+        \n 2. The application tier (business logic) in the middle and
+        \n 3. The client tier (presentation) at the top.
+    </string>
+
+    <string name="descript8">
+        First Tier: Client or Presentation Tier
+        \n   ⁜ This layer deals with user facing, device handling, and rendering.
+        \n   ⁜ This tier includes a user system interface where user services (such as session, text input, and dialog and display management) reside.
+
+        \nSecond Tier: Application or Business Logic Tier:
+        \n   ⁜ This layer is for application programs or process management where business logic and rules are executed.
+        \n   ⁜ This layer is capable of accommodating hundreds of users.
+        \n   ⁜ It controls transactions and asynchronous queuing to ensure reliable completion of transactions.
+        \n   ⁜ It performs the business logic of processing user input, obtaining data and making decisions.
+        \n   ⁜ Application Tier may include technology like CGI, Java, JSP, .Net services, PHP or ColdFusion deployed in products like Apache, WebSphere, WebLogic, iPlanet, JBOSS.
+
+        \nThird Tier: Data Access Tier:
+        \n   ⁜ This layer is for database access and management.
+        \n   ⁜ This tier architecture provides increased performance, flexibility, maintainability, reusability and scalability while hiding complexity of distributed processing from the user.
+        \n   ⁜ Data Tier is used to store data needed by the application and acts as a repository for both temporary and permanent data.
+    </string>
+
+    <string name="descript9">   Mobile computing has changed the complete landscape of our day-to-day life. Following are the major advantages of Mobile Computing − </string>
+
+    <string name="descript10">  This has enabled users to work from anywhere as long as there is a connection established. A user can work without being in a fixed position. Their mobility ensures that they are able to carry out numerous tasks at the same time and perform their stated jobs. </string>
+
+    <string name="descript11">  The time consumed or wasted while travelling from different locations or to the office and back has been slashed. One can now access all the important documents and files over a secure channel or portal and work as if they were on their computer. It has enhanced telecommuting in many companies. It has also reduced unnecessary incurred expenses. </string>
+
+    <string name="descript12">  Users can work efficiently and effectively from whichever location they find comfortable. This in turn enhances their productivity level. </string>
+
+    <string name="descript13">  Research has been made easier, since users earlier were required to go to the field and search for facts and feed them back into the system. It has also made it easier for field officers and researchers to collect and feed data from wherever they are without making unnecessary trips to and from the office to the field.</string>
+
+    <string name="descript14">  Video and audio recordings can now be streamed on-the-go using mobile computing. Its easy to access a wide variety of movies, educational and informative material. With the improvement and availability of high speed data connections at considerable cost, one is able to get all the entertainment they want as they browse the internet for streamed data. One is able to watch news, movies, and documentaries among other entertainment offers over the internet. This was not possible before mobile computing dawned on the computing world. </string>
+
+    <string name="descript15"> Business processes are now easily available through secured connections. Looking into security issues, adequate measures have been put in place to ensure authentication and authorization of the user accessing the services. Some business functions can be run over secure links and sharing of information between business partners can also take place. Meetings, seminars and other informative services can be conducted using video and voice conferencing. Travel time and expenditure is also considerably reduced. </string>
+
+    <string name="aboutDescrpt">    Mixzy offers you three exciting options: First, you can enjoy a fun and simple game that will keep you entertained and allow you to challenge your skills. Second, you can use the Amount After Savings Interest Calculator, which helps you determine how much your savings will grow over time based on the interest rate, principal amount, and duration you choose. Finally, you can explore a detailed document on the Introduction to Mobile Computing, which covers essential topics related to Mobile Application Development and provides a deeper understanding of mobile technologies.</string>
+
+    <string name="bIntro">Hello, I am Willdel Bravo, a third-year student from Marinduque State University, currently taking a bachelors degree in information technology with a major in software development.</string>
+
+    <string name="nTag">WILLDEL BRAVO DEVELOPER-UI/UX</string>
+
+    <string name="appVersion">Version 1.2.0</string>
+
+</resources>
